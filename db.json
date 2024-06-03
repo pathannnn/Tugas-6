@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "3",
+      "title": "judul 3",
+      "content": "ini content"
+    },
+    {
+      "id": "989a",
+      "title": "judul",
+      "content": "Ini Content"
+    }
+  ]
+}
